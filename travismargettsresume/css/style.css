@@ -1,0 +1,74 @@
+body {
+  font-family: 'Sintony', sans-serif;
+  margin: 0 auto;
+  width: 80%;
+}
+header {
+  font-family: 'Old Standard TT', serif;
+  text-align: center;
+  color: #484848;
+}
+h1 {
+  font-size: 65px;
+  padding-bottom: 1%;
+
+}
+hr {
+  height: 1px;
+  color: #484848;
+  border: solid;
+  background-color: #484848;
+}
+h2 {
+  font-family: 'Old Standard TT', serif;
+  padding-top: 3%;
+
+}
+#education {
+  margin-top: 15%;
+
+}
+#references {
+  margin-top: 15%;
+
+}
+#professional {
+  margin-top: 5%;
+
+}
+p {
+  line-height: 25px;
+}
+span {
+  color:#ffa500;
+}
+
+i {
+  color: #ffa500;
+  font-size: 40px;
+  padding-right: 15px;
+
+}
+.fa-star {
+  color: #484848;
+}
+li {
+  list-style-type: none;
+  font-size: 14px;
+  color:#484848;
+  padding: 5px;
+  line-height: 25px;
+}
+h3 {
+  font-family: 'Old Standard TT', serif;
+  color: #ffa500;
+  font-weight: bold;
+  padding-top: 3%;
+
+}
+h4 {
+  font-size: 16px;
+}
+h5 {
+  font-size: 14px;
+}
